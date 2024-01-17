@@ -1,0 +1,1 @@
+This file is added to check for the working of the delete procedure
